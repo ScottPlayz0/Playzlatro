@@ -1,0 +1,13 @@
+{
+  "id": "playzlatroeditions",
+  "name": "Playzlatro Editions",
+  "author": ["ScottPlayz"],
+  "description": "Adds 2 editions that add missing things i felt fit balatro",
+  "prefix": "playzlatro_editions",
+  "main_file": "main.lua",
+  "version": "1.2.0",
+  "priority": 10,
+  "badge_colour": "FF0000",
+  "badge_text_colour": "BFFFF8",
+  "dependencies": []
+}

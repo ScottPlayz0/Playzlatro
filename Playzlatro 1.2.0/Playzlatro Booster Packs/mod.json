@@ -1,0 +1,14 @@
+{
+  "id": "playzlatroboosterpacks",
+  "name": "Playzlatro Booster Packs",
+  "display_name": "Playzlatro Booster Packs",
+  "author": ["ScottPlayz"],
+  "description": "Mod that adds 5 new Booster Packs containing random stuff in them",  
+  "prefix": "playzlatroboosterpacks",
+  "main_file": "main.lua",
+  "priority": 6,
+  "badge_colour": "FF0000",
+  "badge_text_colour": "BFFFF8",
+  "version": "1.2.0",
+  "dependencies": [],
+}
