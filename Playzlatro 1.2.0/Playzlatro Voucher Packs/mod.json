@@ -1,0 +1,14 @@
+{
+  "id": "playzlatrovoucherpacks",
+  "name": "Playzlatro Voucher Packs",
+  "display_name": "Playzlatro Voucher Packs",
+  "author": ["ScottPlayz"],
+  "description": "Mod that adds 3 new Booster packs containing Vouchers",  
+  "prefix": "playzlatrovoucherpacks",
+  "main_file": "main.lua",
+  "priority": 7,
+  "badge_colour": "FF0000",
+  "badge_text_colour": "BFFFF8",
+  "version": "1.2.0",
+  "dependencies": []
+}

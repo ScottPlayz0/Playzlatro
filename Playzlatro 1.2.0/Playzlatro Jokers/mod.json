@@ -1,0 +1,14 @@
+{
+    "id": "playzlatrojokers",
+    "name": "Playzlatro Jokers",
+    "display_name": "Playzlatro Jokers",
+    "author": ["ScottPlayz"],
+    "description": "Adds many new jokers to the game, all art and code currently made by me",  
+    "prefix": "playzlatrojokers",
+    "main_file": "main.lua",
+    "priority": 3,
+    "badge_colour": "FF0000",
+    "badge_text_colour": "BFFFF8",
+    "version": "1.2.0",
+    "dependencies": [],
+  }
